@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1702448123 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\pp1\finalproject1\main.cpp
+	<iostream>
+	"menuprincipal.cpp"
+
+1702489500 c:\users\user\documents\espe\semestre 2023 2\estructuras\pp1\finalproject1\menuprincipal.cpp
+	"menuprincipal.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"utilities.h"
+
+1702448132 c:\users\user\documents\espe\semestre 2023 2\estructuras\pp1\finalproject1\menuprincipal.h
+
+1702448134 c:\users\user\documents\espe\semestre 2023 2\estructuras\pp1\finalproject1\utilities.h
+	<windows.h>
+
+1702763846 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\main.cpp
+	<iostream>
+	"menuprincipal.cpp"
+	"Operar.h"
+	"validaciones.h"
+	"Cliente.h"
+	"ListaDoble.h"
+
+1702489500 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\menuprincipal.cpp
+	"menuprincipal.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"utilities.h"
+
+1702448132 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\menuprincipal.h
+
+1702448134 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\utilities.h
+	<windows.h>
+
+1702693311 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\fecha.cpp
+	"Fecha.h"
+
+1702693281 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\fecha.h
+
+1702693926 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\persona.cpp
+	"Persona.h"
+
+1702693268 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\persona.h
+	"iostream"
+	"Fecha.h"
+
+1702748595 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\listadoble.cpp
+	<iostream>
+	"ListaDoble.h"
+	"Fecha.h"
+
+1702765261 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\listadoble.h
+	<iostream>
+	"Nodo.h"
+	"Fecha.h"
+
+1702749923 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\nodo.h
+
+1702743431 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\nodo.cpp
+	"Nodo.h"
+
+1702770737 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\operar.h
+	"Cliente.h"
+	"Movimiento.h"
+	"ListaDoble.h"
+	"Fecha.h"
+	<cmath>
+
+1702749090 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\cliente.h
+	"Persona.h"
+	"Movimiento.h"
+
+1702769269 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\movimiento.h
+	"ListaDoble.h"
+	"Fecha.h"
+
+1702769809 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\movimiento.cpp
+	"Movimiento.h"
+	"Fecha.h"
+
+1702749070 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\cliente.cpp
+	"Cliente.h"
+
+1702485350 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\finalproject1\validaciones.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+
+1702851693 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\fecha.cpp
+	"Fecha.h"
+	"utilities.h"
+
+1702852312 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\fecha.h
+	<vector>
+
+1702846190 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\main.cpp
+	<iostream>
+	"menuprincipal.cpp"
+	"Operar.h"
+	"validaciones.h"
+	"Cliente.h"
+	"ListaDoble.h"
+	"Fecha.h"
+
+1702844517 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\menuprincipal.cpp
+	"menuprincipal.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"utilities.cpp"
+
+1702448132 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\menuprincipal.h
+
+1702844478 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\utilities.h
+	<windows.h>
+
+1702770737 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\operar.h
+	"Cliente.h"
+	"Movimiento.h"
+	"ListaDoble.h"
+	"Fecha.h"
+	<cmath>
+
+1702749090 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\cliente.h
+	"Persona.h"
+	"Movimiento.h"
+
+1702693268 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\persona.h
+	"iostream"
+	"Fecha.h"
+
+1702769269 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\movimiento.h
+	"ListaDoble.h"
+	"Fecha.h"
+
+1702765261 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\listadoble.h
+	<iostream>
+	"Nodo.h"
+	"Fecha.h"
+
+1702749923 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\nodo.h
+
+1702485350 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\validaciones.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+
+1702693926 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\persona.cpp
+	"Persona.h"
+
+1702749070 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\cliente.cpp
+	"Cliente.h"
+
+1702769809 source:c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\movimiento.cpp
+	"Movimiento.h"
+	"Fecha.h"
+
+1702844486 c:\users\user\documents\espe\semestre 2023 2\estructuras\finalproject1\utilities.cpp
+	"utilities.h"
+	<windows.h>
+
