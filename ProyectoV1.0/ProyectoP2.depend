@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1702891113 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\fecha.cpp
+	"Fecha.h"
+
+1706932284 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\fecha.h
+	<iostream>
+
+1707100513 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\main.cpp
+	<iostream>
+	"Nodo.cpp"
+	"ListaDoble.cpp"
+	"Movimiento.h"
+	"Persona.h"
+	"Cuenta.h"
+	"Operaciones.h"
+	"windows.h"
+	"conio.h"
+	"validaciones.h"
+	"arbolBinario.cpp"
+
+1707091831 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\operaciones.cpp
+	"Operaciones.h"
+	"Nodo.cpp"
+	"ListaDoble.cpp"
+	<iomanip>
+	<fstream>
+	"Cuenta.h"
+	"Movimiento.h"
+	"Fecha.h"
+	<ctime>
+	<cmath>
+
+1707073096 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\operaciones.h
+	"Cuenta.h"
+	"ListaDoble.h"
+
+1707082181 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\persona.cpp
+	"Persona.h"
+
+1707082191 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\persona.h
+	<iostream>
+
+1707098128 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\cuenta.cpp
+	"Cuenta.h"
+
+1707095401 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\cuenta.h
+	"Persona.h"
+	"ListaDoble.h"
+	"Movimiento.h"
+
+1707096514 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\movimiento.h
+	"Fecha.h"
+	"ListaDoble.h"
+
+1706677912 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\listadoble.h
+	"Nodo.h"
+
+1707082096 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\nodo.h
+	<iostream>
+
+1707082163 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\listadoble.cpp
+	<iostream>
+	"ListaDoble.h"
+
+1707097085 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\movimiento.cpp
+	"Movimiento.h"
+	"Fecha.h"
+	"ListaDoble.cpp"
+
+1707083177 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\nodo.cpp
+	"Nodo.h"
+
+1707083177 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\nodo.cpp
+	"Nodo.h"
+
+1707082163 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\listadoble.cpp
+	<iostream>
+	"ListaDoble.h"
+
+1707090912 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\validaciones.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+	<cctype>
+
+1707083344 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\nodo_arbol.cpp
+	"Nodo_Arbol.h"
+
+1707083476 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\nodo_arbol.h
+
+1707099529 source:c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\arbolbinario.cpp
+	"arbolBinario.h"
+	"Nodo_Arbol.cpp"
+	<algorithm>
+	<iostream>
+
+1707099395 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\arbolbinario.h
+	"Nodo_Arbol.h"
+	<iostream>
+
+1707083344 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\nodo_arbol.cpp
+	"Nodo_Arbol.h"
+
+1707099529 c:\users\darÍo benavides\desktop\profesional\lenguajes\c++(both)\proyectop2\arbolbinario.cpp
+	"arbolBinario.h"
+	"Nodo_Arbol.cpp"
+	<algorithm>
+	<iostream>
+
+1707109780 source:c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\cuenta.cpp
+	"Cuenta.h"
+
+1707109780 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\cuenta.h
+	"Persona.h"
+	"ListaDoble.h"
+	"Movimiento.h"
+
+1707104046 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\persona.h
+	<iostream>
+
+1707083610 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\listadoble.h
+	"Nodo.h"
+
+1707104046 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\nodo.h
+	<iostream>
+
+1707115462 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\movimiento.h
+	"Fecha.h"
+	"ListaDoble.h"
+
+1707083610 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\fecha.h
+	<iostream>
+
+1707083610 source:c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\fecha.cpp
+	"Fecha.h"
+
+1707104046 source:c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\listadoble.cpp
+	<iostream>
+	"ListaDoble.h"
+
+1707117019 source:c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\main.cpp
+	<iostream>
+	"Nodo.cpp"
+	"ListaDoble.cpp"
+	"Movimiento.h"
+	"Persona.h"
+	"Cuenta.h"
+	"Operaciones.h"
+	"windows.h"
+	"conio.h"
+	"validaciones.h"
+	"arbolBinario.cpp"
+	"Fecha.h"
+	<ctime>
+
+1707104046 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\nodo.cpp
+	"Nodo.h"
+
+1707104046 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\listadoble.cpp
+	<iostream>
+	"ListaDoble.h"
+
+1707115600 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\operaciones.h
+	"Cuenta.h"
+	"ListaDoble.h"
+
+1707104046 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\validaciones.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+	<cctype>
+
+1707104046 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\arbolbinario.cpp
+	"arbolBinario.h"
+	"Nodo_Arbol.cpp"
+	<algorithm>
+	<iostream>
+
+1707104046 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\arbolbinario.h
+	"Nodo_Arbol.h"
+	<iostream>
+
+1707104046 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\nodo_arbol.h
+
+1707104046 c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\nodo_arbol.cpp
+	"Nodo_Arbol.h"
+
+1707115462 source:c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\movimiento.cpp
+	"Movimiento.h"
+	"Fecha.h"
+	"ListaDoble.cpp"
+
+1707104046 source:c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\nodo.cpp
+	"Nodo.h"
+
+1707115600 source:c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\operaciones.cpp
+	"Operaciones.h"
+	"Nodo.cpp"
+	"ListaDoble.cpp"
+	<iomanip>
+	<fstream>
+	"Cuenta.h"
+	"Movimiento.h"
+	"Fecha.h"
+	<ctime>
+	<cmath>
+
+1707104046 source:c:\users\cajh1\documents\datastructureteam\datastructureteam\proyectop2\persona.cpp
+	"Persona.h"
+
